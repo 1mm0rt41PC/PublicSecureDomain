@@ -1,0 +1,4 @@
+﻿"HostName","DisplayName","Direction","DisplayGroup","Profile","Action","PolicyStoreSourceType","PolicyStoreSource","Protocol","LocalPort","RemotePort","RemoteAddress","Error"
+"DC-SRV01","Microsoft Edge (mDNS-In)","Inbound","Microsoft Edge","Any","Allow","Local","PersistentStore","UDP","5353","Any","Any",
+"DC-SRV01","[GPO] Drop LLMNR","Outbound","[GPO][1mm0rt41][Security](GPO,Computer) NetBios","Any","Block","GroupPolicy",,"UDP","Any","137","Any",
+"DC-SRV01","[GPO] Drop LLMNR","Outbound","[GPO][1mm0rt41][Security](GPO,Computer) LLMNR","Any","Block","GroupPolicy",,"UDP","Any","5355","Any",

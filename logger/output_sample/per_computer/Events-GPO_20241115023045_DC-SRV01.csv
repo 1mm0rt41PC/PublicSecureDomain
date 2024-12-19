@@ -1,0 +1,2 @@
+﻿"HostName","TimeCreated","Id","Message","Info","isGPOSuccess"
+"DC-SRV01","11/15/2024 2:29:31 AM","1502","The Group Policy settings for the computer were processed successfully. New settings from 8 Group Policy objects were detected and applied.","[{'Name':'SupportInfo1','Value':'1'},{'Name':'SupportInfo2','Value':'4195'},{'Name':'ProcessingMode','Value':'0'},{'Name':'ProcessingTimeInMilliseconds','Value':'2500'},{'Name':'DCName','Value':'\\\\DC-SRV01.earth.lo'},{'Name':'NumberOfGroupPolicyObjects','Value':'8'}]","True"

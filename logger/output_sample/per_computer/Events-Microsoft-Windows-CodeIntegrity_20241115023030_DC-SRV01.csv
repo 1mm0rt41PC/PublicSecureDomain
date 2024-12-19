@@ -1,0 +1,2 @@
+﻿"HostName","TimeCreated","Id","UserId","LevelDisplayName","FileNameBuffer","ProcessNameBuffer","Message","Error"
+"DC-SRV01",,,,,,,,"List LSA error from the last 24h - >Get-WinEvent< not supported | Err: Exception calling ""Invoke"" with ""1"" argument(s): ""The running command stopped because the preference variable ""ErrorActionPreference"" or common parameter is set to Stop: No events were found that match the specified selection criteria."""
